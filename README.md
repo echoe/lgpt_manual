@@ -1,9 +1,15 @@
 # lgpt_manual
-A Little GP Tracker Manual because the official one seems to be gone forever. This is mostly a transcription of a youtube video: https://www.youtube.com/watch?v=ejYSnCWLc6A .
+A Little GP Tracker Manual because the official one seems to be gone forever.
+
+This is mostly a transcription of a youtube video: https://www.youtube.com/watch?v=ejYSnCWLc6A .
+
 Additional advanced controls from https://www.youtube.com/watch?v=_IDQZkzc9sQ .
+
 I am planning to learn more about LGPT over the next month but we'll see. At the very least it'll be good to have a list of shortcuts for the program on the internet in text form ... somewhere.
+
 I did also find https://github.com/djdiskmachine/LittleGPTracker/blob/master/docs/wiki/What-is-LittlePiggyTracker.md and https://github.com/djdiskmachine/LittleGPTracker/blob/master/docs/wiki/quick_start_guide.md.
-... I don't know why I didn't realize that existed before! Anyways this is a simplified version of that, I guess.
+
+... I don't know why I didn't realize that those official documentation guides existed before! This is ... a simplified version of that, I guess.
 
 # General Controls
 - Arrow keys: Move around.
