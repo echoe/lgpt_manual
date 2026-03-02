@@ -84,7 +84,7 @@ but I find it's nice to read it in a shorter list, so I made this.
 # Grooves
 Grooves let you edit swing. By default every step gets 6 'tics' of time. If you have a 2-step groove table for instance, you can set the first one to 6 asnd second one to 5, and get a sort of herky-jerky swing going on for that phrase.
 
-# Text Walkthrough
+# Text Walkthrough, using starter project
 
 When you start LPGT, the first thing you see is the project selection screen.
 You can select what project you would like to work on, or create a new one. All projects are folders, starting with lgpt.
