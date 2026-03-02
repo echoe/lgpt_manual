@@ -12,13 +12,18 @@ Song, Chain, Phrase, Instrument
 
 The groove and both tables aren't covered in this information.
 
--Press Start to start or stop the song. If you're in Chain or Phrase mode, it will play only that Chain or Phrase, unless you press start and right shoulder at the same time, then it’ll play the song from that spot.
--To create a new chain or phrase, press A twice. This fills the slot with the first chain or phrase number. (Pressing A once just fills the spot with the 'default' chain/phrase/note/etc.)
--To edit a chain or phrase or instrument or note, select it with the arrow keys, hold a, and then move the arrow keys. Up/down moves by 10, moving right is +1, left is -1.
--To delete something, select it, then press A and B at the same time.
--To copy something, press left shoulder and B to go into selection mode, move the selection with the arrow keys, and then press either B (copy) or left shoulder again and A (cut).
--To paste copied or cut data, press left shoulder and A at the same time.
--To clone data, select the data you want to clone, hold the left shoulder, and press b and then a. This will 'clone' that information into a new chain, and you can edit it without affecting the previous chain you had.
+- Press Start to start or stop the song.
+  - If you're in Chain or Phrase mode, it will play only that Chain or Phrase, unless you press start and right shoulder at the same time, then it’ll play the song from that spot.
+- To create a new chain or phrase, press A twice. This fills the slot with the first chain or phrase number.
+  - (Pressing A once just fills the spot with the 'default' chain/phrase/note/etc.)
+- To edit a chain or phrase or instrument or note, select it with the arrow keys, hold a, and then move the arrow keys.
+  - Up/down moves by 10, moving right is +1, left is -1.
+- To delete something, select it, then press A and B at the same time.
+- To copy something, press left shoulder and B to go into selection mode, move the selection with the arrow keys, and then press B (copy).
+  - To cut something, do the same selection mode, then press left shoulder again and A (cut).
+- To paste copied or cut data, press left shoulder and A at the same time, with the same command as you cut with.
+- To clone data, select the data you want to clone, hold the left shoulder, and press b and then a.
+  - This will 'clone' that information into a new chain, and you can edit it without affecting the previous chain you had.
 
 # Walkthrough
 
